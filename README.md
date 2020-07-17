@@ -1,7 +1,5 @@
 
-# 大厂Github开源地址
-- [apache](https://github.com/apache) -
-- [google](https://github.com/google) -
+# 国内大厂Github开源地址
 - [华为](https://github.com/Huawei) -
 - [阿里巴巴](https://github.com/alibaba) - 
 - [腾讯](https://github.com/Tencent) - 
@@ -22,3 +20,4 @@
 - [蘑菇街](https://github.com/mogujie) -
 - [新浪微博](https://github.com/weibocom) -
 - [奇虎360](https://github.com/Qihoo360) -
+
